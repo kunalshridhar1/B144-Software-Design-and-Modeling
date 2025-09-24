@@ -1,6 +1,6 @@
 # Free English-German Translator CLI
 
-    A command-line translator that translates text from English to German using three free translation APIs with automatic fallback:
+A command-line translator that translates text from English to German using three free translation APIs with automatic fallback:
 
 - **Google Translator**
 - **LibreTranslate**
@@ -52,4 +52,5 @@ Free-English-German-Translator/
 
 
 
-✍️ Author Kunal Shridhar Mail id: @shridharkunal2005@gmail.com
+✍️ Author Kunal Shridhar Mail id: shridharkunal2005@gmail.com
+
