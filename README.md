@@ -26,17 +26,17 @@ No API keys are required.
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Usage
-
+```bash
 python translator_cli\main.py "Hello world"
-
+```
 ## Example Output
-
+```bash
 Original Text: Hello world
 Translated Text: Hallo Welt
 API Used: Google Translator
-
+```
 ## Project Structure
 
 Free-English-German-Translator/
@@ -53,4 +53,5 @@ Free-English-German-Translator/
 
 
 ✍️ Author Kunal Shridhar Mail id: shridharkunal2005@gmail.com
+
 
