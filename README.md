@@ -55,7 +55,8 @@ Free-English-German-Translator/
 👨‍💻 Author
 Kunal Shridhar
 📧 shridharkunal2005@gmail.com
-🔗 GitHub:kunalshridhar1
+🔗 GitHub: https://github.com/kunalshridhar1
+
 
 
 
