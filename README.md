@@ -50,12 +50,16 @@ Free-English-German-Translator/
 ├── README.md
 └── LICENSE
 ```
+# License
+
+    This project is licensed under the MIT License.
 
 
 👨‍💻 Author
 Kunal Shridhar
 📧 shridharkunal2005@gmail.com
 🔗 GitHub: https://github.com/kunalshridhar1
+
 
 
 
