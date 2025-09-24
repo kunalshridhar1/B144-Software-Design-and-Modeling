@@ -38,7 +38,7 @@ Translated Text: Hallo Welt
 API Used: Google Translator
 ```
 ## Project Structure
-
+```bash
 Free-English-German-Translator/
 ├── translator_cli/
 │   ├── __init__.py
@@ -49,9 +49,13 @@ Free-English-German-Translator/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
 
 
+👨‍💻 Author
+Kunal Shridhar
+📧 shridharkunal2005@gmail.com
+🔗 GitHub:kunalshridhar1
 
-✍️ Author Kunal Shridhar Mail id: shridharkunal2005@gmail.com
 
 
