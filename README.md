@@ -50,6 +50,7 @@ Free-English-German-Translator/
 ├── README.md
 └── LICENSE
 ```
+
 # License
 
     This project is licensed under the MIT License.
@@ -59,6 +60,7 @@ Free-English-German-Translator/
 Kunal Shridhar
 📧 shridharkunal2005@gmail.com
 🔗 GitHub: https://github.com/kunalshridhar1
+
 
 
 
