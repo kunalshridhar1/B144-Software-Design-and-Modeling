@@ -51,4 +51,5 @@ Free-English-German-Translator/
 └── LICENSE
 
 
-✍️ Author Kunal Shridhar Mail id: shridharkunal2005@gmail.com
+
+✍️ Author Kunal Shridhar Mail id: @shridharkunal2005@gmail.com
